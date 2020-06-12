@@ -29,14 +29,26 @@ https://ibb.co/nDHfZkB
 A, B, P
 
 A, C, D, P
+
 A, C, E, F, P
+
 A, C, E, G, H.1, H.2, M, O, P (mailot e prazen string, ne e vozmozhno)
+
 A, C, E, G, H.1, H.2, M, N, P
+
 A, C, E, G, H.1, (H.2, I, K, H.3), M, N, P
+
 A, C, E, G, H.1, (H.2, I, K, H.3), M, O, P (ne e validen emailot, ne e vozmozhno)
+
 A, C, E, G, H.1, (H.2, I, J, K, H.3), M, N, P 
+
 A, C, E, G, H.1, (H.2, I, J, K, H.3), M, O, P (ne e validen emailot, ne e vozmozhno)
+
 A, C, E, G, H.1, (H.2, I, K, L, H.3), M, N, P (ne mozhe da otide do K, ako barem ednash ne otide do J)
+
 A, C, E, G, H.1, (H.2, I, K, L, H.3), M, O, P (ne e validen emailot, ne e vozmozhno)
+
 A, C, E, G, H.1, (H.2, I, J, K, L, H.3), M, N, P (emailot e validen, ne e vozmozhno)
+
 A, C, E, G, H.1, (H.2, I, J, K, L, H.3), M, O, P
+
