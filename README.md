@@ -27,6 +27,7 @@ https://ibb.co/nDHfZkB
 ## Тест случаи според критериумот Every path
 
 A, B, P
+
 A, C, D, P
 A, C, E, F, P
 A, C, E, G, H.1, H.2, M, O, P (mailot e prazen string, ne e vozmozhno)
